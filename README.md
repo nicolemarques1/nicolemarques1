@@ -1,3 +1,4 @@
 - 👋 Oi, eu sou @nicolemarques1
 - 👀 Estou interessado em javascript, html, css, php.
 - 📫 Como chegar até mim: nicolemarques1.mjap@gmail.com
+- 🖥️ Estudante 
